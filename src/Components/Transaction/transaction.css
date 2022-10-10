@@ -1,0 +1,26 @@
+.submit_login {
+    background-color: #0da18e !important;
+    font-size: 14px;
+}
+
+/* table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+} */
+
+tr {
+    background-color: white !important;
+}
+
+/* tr:first-child {
+    background-color: rgb(58, 58, 58) !important;
+    color: white !important;
+} */
